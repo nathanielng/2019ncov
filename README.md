@@ -3,6 +3,7 @@
 This is a Github repository for hosting
 Juypter notebooks related to the 2019 nCov
 
+![2019ncov trends](jupyter/2019ncov-trends.png)
 
 ### Jupyter Notebooks (viewing only)
 
